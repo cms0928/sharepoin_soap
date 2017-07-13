@@ -6,13 +6,13 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Opened</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>javascript:gs.now()</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -20,7 +20,7 @@
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
-        <dynamic_default_value/>
+        <dynamic_default_value display_value="Now (Date)">fb7553e85f220100a9ad2572f2b477b4</dynamic_default_value>
         <dynamic_ref_qual/>
         <element>u_glide_date_8</element>
         <element_reference>false</element_reference>
@@ -46,9 +46,9 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>michelle.local</sys_created_by>
         <sys_created_on>2017-07-13 08:48:11</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>76a058f3dbfb3e00e3be5fa0cf9619ee</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Opened</sys_name>
         <sys_package display_value="SharePoint_Soap" source="x_votu_sharepoint">364e0433dbfb3e00e3be5fa0cf961963</sys_package>
         <sys_policy/>
@@ -56,12 +56,12 @@
         <sys_scope display_value="SharePoint_Soap">364e0433dbfb3e00e3be5fa0cf961963</sys_scope>
         <sys_update_name>sys_dictionary_x_votu_sharepoint_soap_table_u_glide_date_8</sys_update_name>
         <sys_updated_by>michelle.local</sys_updated_by>
-        <sys_updated_on>2017-07-13 08:48:11</sys_updated_on>
+        <sys_updated_on>2017-07-13 08:58:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>false</use_dynamic_default>
+        <use_dynamic_default>true</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
         <widget/>

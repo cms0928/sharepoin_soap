@@ -3,21 +3,23 @@
     <element extends="task" label="SharePoint_Soap Table" max_length="40" name="x_votu_sharepoint_soap_table" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="u_choice_5" type="string">
             <choice>
-                <element label="Choice 1" sequence="0" value="Choice 1"/>
-                <element label="Choice 2" sequence="1" value="Choice 2"/>
-                <element label="Choice 3" sequence="2" value="Choice 3"/>
+                <element label="Mobile" sequence="0" value="mobile"/>
+                <element label="Laptop" sequence="1" value="laptop"/>
+                <element label="Notebook" sequence="2" value="notebook"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="SN Status" max_length="40" name="u_choice_6" type="string">
             <choice>
-                <element label="Choice 1" sequence="0" value="Choice 1"/>
-                <element label="Choice 2" sequence="1" value="Choice 2"/>
-                <element label="Choice 3" sequence="2" value="Choice 3"/>
+                <element label="?" sequence="0" value="?"/>
+                <element label="New" sequence="0" value="new"/>
+                <element label="Access" sequence="1" value="access"/>
+                <element label="Authorized" sequence="2" value="authorized"/>
+                <element label="Completed" sequence="3" value="completed"/>
             </choice>
         </element>
         <element label="Request Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
-        <element label="Opened" max_length="40" name="u_glide_date_8" type="glide_date"/>
-        <element label="Caller" max_length="32" name="u_reference_3" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element default="javascript:gs.now()" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Opened" max_length="40" name="u_glide_date_8" type="glide_date" use_dynamic_default="true"/>
+        <element label="Caller" max_length="32" name="u_reference_3" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="SP Number" max_length="40" name="u_string_1" type="string"/>
     </element>
 </database>
