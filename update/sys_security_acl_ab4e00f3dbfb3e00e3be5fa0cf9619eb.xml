@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_votu_sharepoint_soap_table</description>
+        <name>x_votu_sharepoint_soap_table</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>michelle.local</sys_created_by>
+        <sys_created_on>2017-07-13 08:37:52</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ab4e00f3dbfb3e00e3be5fa0cf9619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_votu_sharepoint_soap_table</sys_name>
+        <sys_package display_value="SharePoint_Soap" source="x_votu_sharepoint">364e0433dbfb3e00e3be5fa0cf961963</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SharePoint_Soap">364e0433dbfb3e00e3be5fa0cf961963</sys_scope>
+        <sys_update_name>sys_security_acl_ab4e00f3dbfb3e00e3be5fa0cf9619eb</sys_update_name>
+        <sys_updated_by>michelle.local</sys_updated_by>
+        <sys_updated_on>2017-07-13 08:37:52</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

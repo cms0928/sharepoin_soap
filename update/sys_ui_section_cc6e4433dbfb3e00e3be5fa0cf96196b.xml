@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="cc6e4433dbfb3e00e3be5fa0cf96196b" sys_domain="global" table="x_votu_sharepoint_soap_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:48:15</sys_created_on>
+            <sys_id>27a098f3dbfb3e00e3be5fa0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_votu_sharepoint_soap_table" sys_domain="global" view="Default view">cc6e4433dbfb3e00e3be5fa0cf96196b</sys_ui_section>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:48:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_3</element>
+            <position>1</position>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:48:15</sys_created_on>
+            <sys_id>a7a098f3dbfb3e00e3be5fa0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_votu_sharepoint_soap_table" sys_domain="global" view="Default view">cc6e4433dbfb3e00e3be5fa0cf96196b</sys_ui_section>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:48:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_5</element>
+            <position>2</position>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:48:15</sys_created_on>
+            <sys_id>2ba098f3dbfb3e00e3be5fa0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_votu_sharepoint_soap_table" sys_domain="global" view="Default view">cc6e4433dbfb3e00e3be5fa0cf96196b</sys_ui_section>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:48:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_6</element>
+            <position>3</position>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:48:15</sys_created_on>
+            <sys_id>aba098f3dbfb3e00e3be5fa0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_votu_sharepoint_soap_table" sys_domain="global" view="Default view">cc6e4433dbfb3e00e3be5fa0cf96196b</sys_ui_section>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:48:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:48:15</sys_created_on>
+            <sys_id>2fa098f3dbfb3e00e3be5fa0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_votu_sharepoint_soap_table" sys_domain="global" view="Default view">cc6e4433dbfb3e00e3be5fa0cf96196b</sys_ui_section>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:48:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>5</position>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:48:15</sys_created_on>
+            <sys_id>afa098f3dbfb3e00e3be5fa0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_votu_sharepoint_soap_table" sys_domain="global" view="Default view">cc6e4433dbfb3e00e3be5fa0cf96196b</sys_ui_section>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:48:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_4</element>
+            <position>6</position>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:48:15</sys_created_on>
+            <sys_id>23a098f3dbfb3e00e3be5fa0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_votu_sharepoint_soap_table" sys_domain="global" view="Default view">cc6e4433dbfb3e00e3be5fa0cf96196b</sys_ui_section>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:48:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_8</element>
+            <position>7</position>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:48:15</sys_created_on>
+            <sys_id>a3a098f3dbfb3e00e3be5fa0cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_votu_sharepoint_soap_table" sys_domain="global" view="Default view">cc6e4433dbfb3e00e3be5fa0cf96196b</sys_ui_section>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:48:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_votu_sharepoint_soap_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>michelle.local</sys_created_by>
+            <sys_created_on>2017-07-13 08:38:11</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc6e4433dbfb3e00e3be5fa0cf96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_votu_sharepoint_soap_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SharePoint_Soap" source="x_votu_sharepoint">364e0433dbfb3e00e3be5fa0cf961963</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SharePoint_Soap">364e0433dbfb3e00e3be5fa0cf961963</sys_scope>
+            <sys_update_name>sys_ui_section_cc6e4433dbfb3e00e3be5fa0cf96196b</sys_update_name>
+            <sys_updated_by>michelle.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 08:38:11</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
