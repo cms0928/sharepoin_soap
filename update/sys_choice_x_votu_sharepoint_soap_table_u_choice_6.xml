@@ -63,6 +63,63 @@
             <element>u_choice_6</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_votu_sharepoint_soap_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>Winson.local</sys_created_by>
+            <sys_created_on>2017-07-13 09:51:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e22f5c3bdbfb3e00e3be5fa0cf9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Winson.local</sys_updated_by>
+            <sys_updated_on>2017-07-13 09:51:32</sys_updated_on>
+            <value>Pending</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_6</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Waiting SN Approval</label>
+            <language>en</language>
+            <name>x_votu_sharepoint_soap_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>Winson.local</sys_created_by>
+            <sys_created_on>2017-07-14 02:56:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39c90000dbcc0f00e3be5fa0cf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Winson.local</sys_updated_by>
+            <sys_updated_on>2017-07-14 02:56:34</sys_updated_on>
+            <value>Waiting SN Approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_6</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>{ItemProperty:_x0076_t82}</label>
+            <language>en</language>
+            <name>x_votu_sharepoint_soap_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>Winson.local</sys_created_by>
+            <sys_created_on>2017-07-14 02:07:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b7ebffbdb3f3e0099d45040cf96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Winson.local</sys_updated_by>
+            <sys_updated_on>2017-07-14 02:07:13</sys_updated_on>
+            <value>{ItemProperty:_x0076_t82}</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_6</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Access</label>
             <language>en</language>
             <name>x_votu_sharepoint_soap_table</name>
@@ -161,15 +218,15 @@
             <sys_created_on>2017-07-13 08:48:15</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_id>6ba098f3dbfb3e00e3be5fa0cf9619a9</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>6</sys_mod_count>
             <sys_name>u_choice_6</sys_name>
             <sys_package display_value="SharePoint_Soap" source="x_votu_sharepoint">364e0433dbfb3e00e3be5fa0cf961963</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="SharePoint_Soap">364e0433dbfb3e00e3be5fa0cf961963</sys_scope>
             <sys_update_name>sys_choice_x_votu_sharepoint_soap_table_u_choice_6</sys_update_name>
-            <sys_updated_by>michelle.local</sys_updated_by>
-            <sys_updated_on>2017-07-13 09:27:08</sys_updated_on>
+            <sys_updated_by>Winson.local</sys_updated_by>
+            <sys_updated_on>2017-07-14 02:56:34</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

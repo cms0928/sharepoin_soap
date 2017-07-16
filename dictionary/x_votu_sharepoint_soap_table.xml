@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="SharePoint_Soap Table" max_length="40" name="x_votu_sharepoint_soap_table" type="collection">
+    <element extends="task" label="SharePoint_Soap Table" max_length="40" name="x_votu_sharepoint_soap_table" sizeclass="19" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="u_choice_5" type="string">
             <choice>
                 <element label="Mobile" sequence="0" value="mobile"/>
+                <element label="{ItemProperty:AppAuthor}" sequence="0" value="{ItemProperty:AppAuthor}"/>
+                <element label="{ItemProperty:request_choice}" sequence="0" value="{ItemProperty:request_choice}"/>
                 <element label="Laptop" sequence="1" value="laptop"/>
                 <element label="Notebook" sequence="2" value="notebook"/>
             </choice>
@@ -12,6 +14,9 @@
             <choice>
                 <element label="?" sequence="0" value="?"/>
                 <element label="New" sequence="0" value="new"/>
+                <element label="Pending" sequence="0" value="Pending"/>
+                <element label="Waiting SN Approval" sequence="0" value="Waiting SN Approval"/>
+                <element label="{ItemProperty:_x0076_t82}" sequence="0" value="{ItemProperty:_x0076_t82}"/>
                 <element label="Access" sequence="1" value="access"/>
                 <element label="Authorized" sequence="2" value="authorized"/>
                 <element label="Completed" sequence="3" value="completed"/>
